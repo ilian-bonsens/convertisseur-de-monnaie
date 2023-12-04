@@ -1,0 +1,2 @@
+2023-12-04 15:26:25.146769: Converti 100.00 PHP en 1.67 EUR. Le taux de conversion est : 0.02.
+2023-12-04 15:26:42.255769: Converti 10.00 CHF en 397.75 THB. Le taux de conversion est : 39.78.
